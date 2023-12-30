@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "658f8f597900a70ce29719c2"
+  },
+  "firstName": "ritik",
+  "lastName": "yadav",
+  "address": "raipur",
+  "age": "23",
+  "contact_number": "43219732566",
+  "website": "none",
+  "_class": "dev.anant_project.user_management.data.User"
+}]

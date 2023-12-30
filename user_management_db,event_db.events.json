@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "658f8ffa7900a70ce29719c3"
+  },
+  "event_type": "wedding",
+  "event_location": "goa",
+  "event_date": "2023-12-31",
+  "total_members": "300",
+  "event_budget": "5000000",
+  "extra_description": "Ritik's Wedding (bhai ki shadi) :-)",
+  "_class": "dev.anant_project.user_management.data.Event"
+}]
